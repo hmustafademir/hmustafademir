@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mrmustafademir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="mrmustafademir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/demir-mustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="demir-mustafa" height="30" width="40" /></a>
+<a href="https://twitter.com/mrmustafademir" target="blank"><img align="center" src="https://www.w3.org/2008/site/images/Twitter_bird_logo_2012.svg" alt="mrmustafademir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/demir-mustafa" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="demir-mustafa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmustafademir&" alt="hmustafademir" /></p>
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-Mustafa.vercel.app/api/spotify-playing" alt="MUSTAFA Spotify Playing" width="350" />](https://open.spotify.com/user/31h5syn62e2lg3ej5h6wthe7z46m)
+[<img src="https://now-playing-MUSTAFA.vercel.app/api/spotify-playing" alt="MUSTAFA Spotify Playing" width="350" />](https://open.spotify.com/user/31h5syn62e2lg3ej5h6wthe7z46m)
