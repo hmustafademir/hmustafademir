@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmustafademir&" alt="hmustafademir" /></p>
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31h5syn62e2lg3ej5h6wthe7z46m)
+[<img src="https://now-playing-Mustafa.vercel.app/api/spotify-playing" alt="MUSTAFA Spotify Playing" width="350" />](https://open.spotify.com/user/31h5syn62e2lg3ej5h6wthe7z46m)
