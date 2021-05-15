@@ -2,6 +2,7 @@
 
 <!--
 **hmustafademir/hmustafademir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[README.md](https://github.com/hmustafademir/hmustafademir/files/6488173/README.md)
 
 Here are some ideas to get you started:
 
