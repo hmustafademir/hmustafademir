@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">I am a computer engineering student from Turkey</h3>
+<h3 align="center">I am an AI engineering student from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmustafademir&label=Profile%20views&color=0e75b6&style=flat" alt="hmustafademir" /> </p>
 
